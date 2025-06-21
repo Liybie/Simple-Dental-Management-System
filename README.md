@@ -1,21 +1,4 @@
-# Java Login & Sign Up GUI
+This System consists of a login page, schedule page, and patient record system with file handling, using a .txt file for storage.
 
-## JAVA - How To Design Login And Register Form In Java Netbeans
+Images and icons may appear distorted, but the functionality of text fields, buttons, and other features remains fully functional.
 
-
-version: 1.0.0
-
-## TECHNOLOGIES
-
-1. Java
-1. Swing
-1. Java JFrame
-
-
-## Full Tutorial
-
-[On Youtube](https://youtu.be/jHSBrX8lLWk)
-
-## Authors
-
-[Elias Abdurrahman](https://github.com/codingWithElias)
