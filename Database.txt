@@ -1,0 +1,11 @@
+1,Acaylar,30,Male,123 Main St,09123456789,Dr. Ritchie,2025-06-09,Cleaning,500.0
+2,Macaspac,25,Female,456 Side Rd,09987654321,Dr. Cherry,2025-06-11,Extraction,1200.0
+3,Macaspac,25,Female,456 Side Rd,09987654321,Dr. Cherry,2025-06-11,Extraction,1200.0
+4,Paragatos Liybie,17,Male,789 Sampaguita St,09171234567,Dr. Cherry,2025-06-15,Checkup,1000.0
+5,Santos Juan,45,Male,101 Rizal Ave,09182345678,Dr. Ritchie,2025-06-20,Root Canal,3500.0
+6,Reyes Maria,33,Female,202 Mabini St,09213456789,Dr. Cherry,2025-06-18,Filling,1500.0
+7,Delacruz Jose,27,Male,303 Bonifacio Blvd,09334567890,Dr. Ritchie,2025-06-22,Cleaning,700.0
+8,Garcia Ana,40,Female,404 Mabuhay Rd,09445678901,Dr. Cherry,2025-06-25,Extraction,1200.0
+9,Dela Torre Mark,50,Male,505 Quezon St,09556789012,Dr. Ritchie,2025-06-28,Crown,4000.0
+10,Bautista Carla,22,Female,606 Mabini St,09667890123,Dr. Cherry,2025-07-01,Braces,8000.0
+11,Bautista Carla,22,Female,606 Mabini St,09667890123,Dr. Cherry,2025-07-01,Braces,8000.0
