@@ -4,6 +4,6 @@ Images and icons may appear distorted, but the functionality of text fields, but
 
 Developed by our Group Xnnovators 
 Project Manager: De Guia, Zyrell Grace C. 
-UI/UX Designer: Acaylar, Prince Justin D. Sign and Date: 
-Front-End Developer: Macaspac, Kathleen Nea A. Sign and Date: 
+UI/UX Designer: Acaylar, Prince Justin D.   
+Front-End Developer: Macaspac, Kathleen Nea A. 
 Back-End Developer: Paragatos, Liybie R. 
